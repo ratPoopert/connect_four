@@ -2,8 +2,8 @@
 
 ## Background
 
-This project is being built according to specifications from The Odin Project's
-Full Stack Ruby on Rails course.
+This project is being built according to [specifications](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/connect-four) from [The Odin Project](https://www.theodinproject.com/)'s
+[Ruby Programming](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming) course.
 
 ## Objectives
 
@@ -17,7 +17,7 @@ the board game Connect Four.
 
 ## Notes
 
-### Connect Four (wikipedia)
+### Connect Four ([wikipedia](https://en.wikipedia.org/wiki/Connect_Four))
 * Two players
   * Red tokens
   * Yellow tokens
@@ -31,7 +31,7 @@ the board game Connect Four.
   * The game is a draw if the board fills up before either player can connect four tokens.
   * No initial first player --> random? --> loser goes first in next game?
 
-### Rails Conf 2013 The Magic Tricks of Testing by Sandi Metz (youtube)
+### Rails Conf 2013 The Magic Tricks of Testing by Sandi Metz ([youtube](https://www.youtube.com/watch?v=URSWYvyc42M))
 * Think of the Object Under Test as a space capsule
   * Focus on the public interface
 * Queries
@@ -61,6 +61,6 @@ the board game Connect Four.
 * https://en.wikipedia.org/wiki/Box-drawing_character
 
 ### Ruby Sleep (for animation)
-https://stackoverflow.com/questions/1329967/tell-ruby-program-to-wait-some-amount-of-time
-https://devdocs.io/ruby~3/kernel#method-i-sleep
+* https://stackoverflow.com/questions/1329967/tell-ruby-program-to-wait-some-amount-of-time
+* https://devdocs.io/ruby~3/kernel#method-i-sleep
 
